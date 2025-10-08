@@ -1,0 +1,65 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  text-align: center;
+  background-image: url(./disposizione-della-scrivania-piatta-con-spazio-di-copia.jpg);
+  background-size: cover;
+  width: auto;
+  padding: 0;
+}
+header {
+  height: 80px;
+}
+main {
+  height: 750px;
+  overflow: auto;
+}
+footer {
+  height: 30px;
+}
+form {
+  padding-top: 25px;
+}
+input {
+  background-color: transparent;
+  font-family: "Roboto", sans-serif;
+  color: black;
+  border-radius: 5px;
+  width: 250px;
+}
+label {
+  font-weight: 700;
+  text-align: center;
+  font-size: 1.2em;
+}
+h1 {
+  text-align: center;
+  font-size: 4em;
+}
+h2 {
+  font-size: 2.5em;
+}
+li {
+  list-style: none;
+  font-size: 1.5em;
+}
+.addButton {
+  background-color: #0ccd50;
+  border-color: transparent;
+  border-radius: 5px;
+  color: #0a3519;
+  width: 30px;
+  height: 30px;
+}
+.remButton {
+  background-color: #520101;
+  border-color: transparent;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  margin-left: 15px;
+  width: 25px;
+  height: 25px;
+}
